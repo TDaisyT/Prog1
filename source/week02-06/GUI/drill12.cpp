@@ -119,7 +119,7 @@ ostringstream oss;
 oss << "Screen size: " << x_max() << "*" << y_max()
 << "; window size: " << win.x_max() << "*" << win.y_max();
 Text sizes {Point{100,20},oss.str()};
-Image cal {Point{225,225},"snow_cpp.gif"};
+Image cal {Point{225,225},"cat.gif"};
 cal.set_mask(Point{40,40},200,150);
 
 
