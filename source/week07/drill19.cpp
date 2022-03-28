@@ -1,9 +1,4 @@
 #include "../std_lib_facilities.h"
-/*#include <vector>
-#include <iostream>
-#include <string>
-using namespace std;
-*/
 
 template<typename T> struct S {
 private:
