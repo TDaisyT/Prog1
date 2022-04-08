@@ -17,7 +17,7 @@ for(auto& i : container){
 	i=i+value;
 	cout << i << ' ';
 					}
-									}
+	}
 
 
 int main(){
