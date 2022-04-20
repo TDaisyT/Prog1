@@ -118,7 +118,7 @@ Matrix<int,2> m(2,3);
 cout << "Please write 6 integers!\n";
 for(int i=0;i<m.dim1();i++){
 	for(int j=0;j<m.dim2();j++){
-		cin>>m(i,j); // or m[i][j]
+		cin>>m(i,j); // vagy m[i][j]
 	}
 }
 cout << m << endl;
